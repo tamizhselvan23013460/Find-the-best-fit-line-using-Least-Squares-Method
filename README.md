@@ -22,6 +22,8 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: TAMIZHSELVAN B 
 RegisterNumber: 212223230225  
 ```
+
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
