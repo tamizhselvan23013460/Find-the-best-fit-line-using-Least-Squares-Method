@@ -45,10 +45,13 @@ print('Y_predicted :',y_predicted)
 plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
+print("Name : Tamizhselvan B")
+print("Reg.No : 212223230225")
 ```
 
 ## Output:
-![ML OUTPUT 1](https://github.com/user-attachments/assets/11251e89-59d8-4f87-9a42-51cfb2c5faeb)
+
+![EX_1_OUTPUT_1](https://github.com/user-attachments/assets/8cba0a1a-1593-458a-8ad6-6ab759a974de)
 
 
 ## Result:
